@@ -1,0 +1,6 @@
+arch
+holidays
+matplotlib
+pandas
+scipy
+statsmodels

@@ -1,6 +1,8 @@
 arch
 holidays
 matplotlib
+nelson_siegel_svensson
 pandas
 scipy
 statsmodels
+seaborn
